@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Malyka019"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=220&section=header&text=Malyka%20Rehman&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Machine%20Learning%20%C2%B7%20Data%20Science&descSize=24&descAlignY=64" width="100%" alt="Malaika Rehman, AI & Data Science" /></a>
+  <a href="https://github.com/Malyka019"><img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=220&section=header&text=Malaika%20Rehman&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=AI%20%C2%B7%20Data%20Science&descSize=24&descAlignY=64" width="100%" alt="Malaika Rehman, AI & Data Science" /></a>
   <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+Turning+complex+data+into+predictive+intelligence.;%3E+Machine+Learning%2C+Statistical+Modeling+%26+Analytics.;%3E+Exploring+Poisson+xG+models%2C+LightGBM+%26+beyond." width="100%" alt="Typing lines" />
 </p>
 
