@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/malyka-rehman"><img src="https://img.shields.io/badge/LinkedIn-A21517?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/malaika-rehman"><img src="https://img.shields.io/badge/LinkedIn-A21517?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://github.com/Malyka019"><img src="https://img.shields.io/badge/Portfolio-A21517?style=for-the-badge" alt="Portfolio" /></a>
   <a href="mailto:malykarehman123@gmail.com"><img src="https://img.shields.io/badge/Email-A21517?style=for-the-badge" alt="Email" /></a>
 </p>
@@ -19,10 +19,9 @@
 
 ```python
 me = {
-    "does":     "Machine Learning, Data Science & Predictive Analytics",
+    "does":     "AI + Data Science & Building End-to-End Data & AI Solutions",
     "based":    "Pakistan",
-    "was":      "Data Science & Analytics Fellow",
-    "degree":   "B.S. in Computer Science / Data Science",
+    "degree":   "B.S. in Computer Science",
     "learning": "Deep Learning architectures & Advanced GenAI",
     "speaks":   ["English", "Urdu"],
     "pronouns": "she/her",
